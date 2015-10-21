@@ -1,0 +1,47 @@
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe.config
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csproj.GenerateResource.Cache
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csprojResolveAssemblyReference.cache
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.TeerlingUI.resources
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.YahtzeeUI.resources
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.pdb
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.exe
+D:\MCT 1\MCT 2\Software Engineering\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.pdb
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe.config
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.exe
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.pdb
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.pdb
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csprojResolveAssemblyReference.cache
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.TeerlingUI.resources
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.YahtzeeUI.resources
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csproj.GenerateResource.Cache
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe.config
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.exe
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.pdb
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.pdb
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csprojResolveAssemblyReference.cache
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.TeerlingUI.resources
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.YahtzeeUI.resources
+D:\School\MCT 1\MCT 2\Software eng\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csproj.GenerateResource.Cache
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe.config
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.exe
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.pdb
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.pdb
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csprojResolveAssemblyReference.cache
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.TeerlingUI.resources
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.YahtzeeUI.resources
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csproj.GenerateResource.Cache
+E:\MCT - KDG\MCT 2\Software eng\Yatzhee\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.Form1.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe.config
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.exe
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.pdb
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.exe
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\bin\Debug\YahtzeeSpel.pdb
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csprojResolveAssemblyReference.cache
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.Form1.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.TeerlingUI.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.YahtzeeUI.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\Yatzhee\YahtzeeSpel\obj\Debug\YahtzeeSpel.csproj.GenerateResource.Cache
