@@ -65,6 +65,11 @@ namespace YahtzeeSpel
       controller.btnResetClick();
     }
 
+    private void YahtzeeUI_Load(object sender, EventArgs e)
+    {
+
+    }
+
 
   }
 }
