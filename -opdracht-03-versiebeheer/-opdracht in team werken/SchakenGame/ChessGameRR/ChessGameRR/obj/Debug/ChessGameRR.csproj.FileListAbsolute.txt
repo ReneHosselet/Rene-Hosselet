@@ -1,0 +1,11 @@
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\bin\Debug\ChessGameRR.exe.config
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\bin\Debug\ChessGameRR.exe
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\bin\Debug\ChessGameRR.pdb
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.csprojResolveAssemblyReference.cache
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.BoardSquare.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.Chessboard.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.Properties.Resources.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.ScoreBord.resources
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.csproj.GenerateResource.Cache
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.exe
+C:\Users\René\Desktop\KDG2016\software engineering\René-Hosselet\-opdracht-03-versiebeheer\-opdracht in team werken\SchakenGame\ChessGameRR\ChessGameRR\obj\Debug\ChessGameRR.pdb

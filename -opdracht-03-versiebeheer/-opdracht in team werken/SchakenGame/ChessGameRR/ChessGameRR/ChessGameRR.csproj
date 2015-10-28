@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C9A95D2-D652-4F47-9CBA-CCA8A663D6E6}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{529AA38E-2F3A-4DE1-BE76-72A8515D32BA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>YahtzeeSpel</RootNamespace>
-    <AssemblyName>YahtzeeSpel</AssemblyName>
+    <RootNamespace>ChessGameRR</RootNamespace>
+    <AssemblyName>ChessGameRR</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -34,53 +34,68 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="BoardSquare.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BoardSquare.Designer.cs">
+      <DependentUpon>BoardSquare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chess.cs" />
+    <Compile Include="Chessboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Chessboard.Designer.cs">
+      <DependentUpon>Chessboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="ChessController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Teerling.cs" />
-    <Compile Include="TeerlingController.cs" />
-    <Compile Include="TeerlingUI.cs">
+    <Compile Include="ScoreBord.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="TeerlingUI.Designer.cs">
-      <DependentUpon>TeerlingUI.cs</DependentUpon>
+    <Compile Include="ScoreBord.Designer.cs">
+      <DependentUpon>ScoreBord.cs</DependentUpon>
     </Compile>
-    <Compile Include="Yahtzee.cs" />
-    <Compile Include="YahtzeeController.cs" />
-    <Compile Include="YahtzeeUI.cs">
-      <SubType>UserControl</SubType>
+    <EmbeddedResource Include="BoardSquare.resx">
+      <DependentUpon>BoardSquare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chessboard.resx">
+      <DependentUpon>Chessboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="YahtzeeUI.Designer.cs">
-      <DependentUpon>YahtzeeUI.cs</DependentUpon>
+    <EmbeddedResource Include="ScoreBord.resx">
+      <DependentUpon>ScoreBord.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="TeerlingUI.resx">
-      <DependentUpon>TeerlingUI.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="YahtzeeUI.resx">
-      <DependentUpon>YahtzeeUI.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
